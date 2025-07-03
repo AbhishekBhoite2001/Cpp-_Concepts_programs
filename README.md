@@ -1,2 +1,6 @@
 # Cpp-_Concepts_programs
-A curated collection of C++ programs demonstrating core language concepts, syntax fundamentals, and OOP principles. Perfect for strengthening modern C++ programming skills.
+Author: Abhishek Bhoite
+
+This repository is a comprehensive collection of C++ programs curated to demonstrate core programming concepts with a strong focus on Object-Oriented Programming (OOP) principles. It includes practical examples of classes, objects, constructors, destructors, inheritance, polymorphism, encapsulation, and abstraction.
+
+These examples are designed to provide clarity, structure, and real-world relevance to modern C++ programming practices.
